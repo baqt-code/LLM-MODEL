@@ -14,12 +14,6 @@ Welcome to Sahara, a news research tool that helps you process and analyze news 
 
 To run Sahara locally, follow these steps:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/sahara-news-research-tool.git
-    cd sahara-news-research-tool
-    ```
-
 2. **Install dependencies**:
     ```bash
     pip install -r requirements.txt
